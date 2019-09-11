@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am asr111 on github.
+  * I am asr111 (https://keybase.io/asr111) on keybase.
+  * I have a public key ASBNwmM4WPdVJkr-TPj2pOUnYWnmNoRB3c4-rjbcGYkyBgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204dc2633858f755264afe4cf8f6a4e5276169e6368441ddce3eae36dc198932060a",
+      "host": "keybase.io",
+      "kid": "01204dc2633858f755264afe4cf8f6a4e5276169e6368441ddce3eae36dc198932060a",
+      "uid": "222c7258f53fc1cf51d6066b20664619",
+      "username": "asr111"
+    },
+    "merkle_root": {
+      "ctime": 1568201272,
+      "hash": "403ab1791aca33c125681eb3aaf0fc16c4e4b1e84f2db7fd13b4ac336eea21a53e8e5d205f48747c35249f9df84e16e2049082d6b564724f71f19af10b01150d",
+      "hash_meta": "5f2f28c88d1a368bfb1ed2447b42697226a9a7fd21105a433f3146c419f9aa72",
+      "seqno": 6687651
+    },
+    "service": {
+      "entropy": "NZTrDnLWzPsRexOuuqouYrvw",
+      "name": "github",
+      "username": "asr111"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568201280,
+  "expire_in": 504576000,
+  "prev": "571fba5bc887746b7ac8461f2ca8db3b25ca7082567d544775895e24181d4c8d",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASBNwmM4WPdVJkr-TPj2pOUnYWnmNoRB3c4-rjbcGYkyBgo](https://keybase.io/asr111), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTcJjOFj3VSZK/kz49qTlJ2Fp5jaEQd3OPq423BmJMgYKp3BheWxvYWTESpcCC8QgVx+6W8iHdGt6yEYfLKjbOyXKcIJWfVRHdYleJBgdTI3EILr69t9PBUP3TbM/U2Rxuv922dGYY1VXGOppQnjMKAIDAgHCo3NpZ8RA5KLODzQ8fLcoTdE8MI7BlO6cO8PcjDtY+HhcsBbNY2VIJyFELzGLDIezBOhiCPWYb0xc8IQQU1HxbObOHOJjCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIpWDL4EFIJzFSsIxgaYv47DLCAUlvpy6z0DKMkuNTb3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/asr111
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id asr111
+```
